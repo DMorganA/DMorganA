@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data bvisualization
+- 🔭 I’m currently working on data visualization
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on exploring datasets
 - 🤔 I’m looking for help with neural networks
